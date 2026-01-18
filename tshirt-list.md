@@ -1,2 +1,5 @@
-1. GitHub 티셔츠
-2. Python 티셔츠
+# 티셔츠 목록
+
+본 파일은 **호환성용(stub)** 이고, 최신 문서는 아래에
+
+- docs/data/tshirt-list.md
